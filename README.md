@@ -1,8 +1,8 @@
-## Olá, eu sou a Mariana Garcia :)
+## Hi, I'm Mariana Garcia :)
 
-- 👩‍💻 Hoje trabalho com WordPress/front-end
-- 📚 Estudando Php e JavaScript
-- 😄 Pronouns: ela/dela
+- 👩‍💻 I work with WordPress/front-end
+- 📚 Studying Php e JavaScript
+- 😄 Pronouns: she/her
 
  <div>
   <a href="https://github.com/marianamgarcia">
