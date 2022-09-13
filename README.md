@@ -1,8 +1,8 @@
 ## Hi, I'm Mariana Garcia :)
 
-👩‍💻 Web/WordPress Developer
-📚 Studying Backend 
-😄 Pronouns: she/her
+- 👩‍💻 Web/WordPress Developer
+- 📚 Studying Backend 
+- 😄 Pronouns: she/her
 
  <div>
   <a href="https://github.com/marianamgarcia">
