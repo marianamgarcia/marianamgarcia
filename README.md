@@ -1,8 +1,9 @@
 ## Hi, I'm Mariana Garcia :)
 
-- 👩‍💻 Web/WordPress Developer
-- 📚 Studying Backend 
-- 😄 Pronouns: she/her
+👩‍💻 Web/WordPress Developer
+I’m a proactive and innovative WordPress / Frontend Developer with a keen eye for
+detail. With a solid background in web development since 2021, specializing in
+developing themes from scratch for WordPress and E-commerce.
 
  <div>
   <a href="https://github.com/marianamgarcia">
