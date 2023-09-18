@@ -1,6 +1,7 @@
 ## Hi, I'm Mariana Garcia :)
 
-👩‍💻 Web/WordPress Developer
+👩‍💻 Full-Stack Developer | HTML5 | CSS3 | JavaScript | PHP | WordPress | E-commerce <br>
+
 I’m a proactive and innovative WordPress / Frontend Developer with a keen eye for
 detail. With a solid background in web development since 2021, specializing in
 developing themes from scratch for WordPress and E-commerce.
